@@ -1,0 +1,404 @@
+{
+    "version": "1.0.0",
+    "imagePath": "byrd_04.png",
+    "imageHeight": 2693,
+    "imageWidth": 4716,
+    "notation-graph": {
+        "attributes": {
+            "clef": {
+                "sign": "g",
+                "line": 2,
+                "octave-change": false
+            },
+            "key": {
+                "mode": null,
+                "fifths": 2,
+                "cancel": 0
+            },
+            "time": {
+                "beats": 4,
+                "beat-type": 4,
+                "time-symbol": null
+            }
+        },
+        "measures": [
+            {
+                "number": 1,
+                "attributes": null,
+                "objects": [
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 4
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 1446,
+                            "y1": 870,
+                            "x2": 1532,
+                            "y2": 1063
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "c",
+                                "alteration": 1,
+                                "octave": 5
+                            },
+                            "stem": "down"
+                        },
+                        "primitive-component": {
+                            "x1": 1715,
+                            "y1": 877,
+                            "x2": 1832,
+                            "y2": 1108
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "d",
+                                "octave": 5
+                            },
+                            "stem": "down",
+                            "tie": "begin"
+                        },
+                        "primitive-component": {
+                            "x1": 2050,
+                            "y1": 898,
+                            "x2": 2132,
+                            "y2": 1101
+                        }
+                    },
+                    {
+                        "duration": "eighth",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "d",
+                                "octave": 5
+                            },
+                            "stem": "down",
+                            "tie": "end"
+                        },
+                        "primitive-component": {
+                            "x1": 2346,
+                            "y1": 901,
+                            "x2": 2443,
+                            "y2": 1115
+                        }
+                    },
+                    {
+                        "duration": "eighth",
+                        "type-component": {
+                            "type": "rest"
+                        },
+                        "primitive-component": {
+                            "x1": 2560,
+                            "y1": 901,
+                            "x2": 2653,
+                            "y2": 1036
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 943,
+                    "y1": 881,
+                    "x2": 2801,
+                    "y2": 1056
+                }
+            },
+            {
+                "number": 2,
+                "attributes": null,
+                "objects": [
+                    {
+                        "duration": "eighth",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "c",
+                                "octave": 4
+                            },
+                            "stem": "up",
+                            "beam": "begin"
+                        },
+                        "primitive-component": {
+                            "x1": 2857,
+                            "y1": 908,
+                            "x2": 2953,
+                            "y2": 1146
+                        }
+                    },
+                    {
+                        "duration": "eighth",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 4
+                            },
+                            "stem": "up",
+                            "beam": "end"
+                        },
+                        "primitive-component": {
+                            "x1": 3067,
+                            "y1": 863,
+                            "x2": 3157,
+                            "y2": 1087
+                        }
+                    },
+                    {
+                        "duration": "eighth",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "a",
+                                "alteration": 1,
+                                "octave": 4
+                            },
+                            "stem": "up",
+                            "beam": "begin"
+                        },
+                        "primitive-component": {
+                            "x1": 3226,
+                            "y1": 818,
+                            "x2": 3360,
+                            "y2": 1060
+                        }
+                    },
+                    {
+                        "duration": "eighth",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "b",
+                                "octave": 4
+                            },
+                            "stem": "up",
+                            "beam": "continue"
+                        },
+                        "primitive-component": {
+                            "x1": 3439,
+                            "y1": 815,
+                            "x2": 3501,
+                            "y2": 1025
+                        }
+                    },
+                    {
+                        "duration": "eighth",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "a",
+                                "alteration": 1,
+                                "octave": 4
+                            },
+                            "stem": "up",
+                            "beam": "end"
+                        },
+                        "primitive-component": {
+                            "x1": 3543,
+                            "y1": 818,
+                            "x2": 3667,
+                            "y2": 1070
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "b",
+                                "octave": 4
+                            },
+                            "stem": "down"
+                        },
+                        "primitive-component": {
+                            "x1": 3729,
+                            "y1": 946,
+                            "x2": 3812,
+                            "y2": 1150
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "rest"
+                        },
+                        "primitive-component": {
+                            "x1": 4032,
+                            "y1": 887,
+                            "x2": 4122,
+                            "y2": 1063
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 2795,
+                    "y1": 887,
+                    "x2": 4405,
+                    "y2": 1077
+                }
+            },
+            {
+                "number": 3,
+                "attributes": null,
+                "objects": [
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "b",
+                                "octave": 4
+                            },
+                            "stem": "down"
+                        },
+                        "primitive-component": {
+                            "x1": 719,
+                            "y1": 1618,
+                            "x2": 801,
+                            "y2": 1829
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 5
+                            },
+                            "stem": "down"
+                        },
+                        "primitive-component": {
+                            "x1": 1026,
+                            "y1": 1529,
+                            "x2": 1101,
+                            "y2": 1774
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "b",
+                                "octave": 4
+                            },
+                            "stem": "down"
+                        },
+                        "primitive-component": {
+                            "x1": 1326,
+                            "y1": 1625,
+                            "x2": 1408,
+                            "y2": 1846
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 4
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 1632,
+                            "y1": 1553,
+                            "x2": 1719,
+                            "y2": 1777
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 346,
+                    "y1": 1570,
+                    "x2": 1957,
+                    "y2": 1753
+                }
+            },
+            {
+                "number": 4,
+                "attributes": null,
+                "objects": [
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 4
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 1998,
+                            "y1": 1556,
+                            "x2": 2084,
+                            "y2": 1787
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "e",
+                                "octave": 4
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 2295,
+                            "y1": 1556,
+                            "x2": 2398,
+                            "y2": 1787
+                        }
+                    },
+                    {
+                        "duration": "half",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "b",
+                                "octave": 4
+                            },
+                            "stem": "down"
+                        },
+                        "primitive-component": {
+                            "x1": 2595,
+                            "y1": 1639,
+                            "x2": 2691,
+                            "y2": 1832
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 1957,
+                    "y1": 1581,
+                    "x2": 3101,
+                    "y2": 1767
+                }
+            }
+        ],
+        "primitive-component": {
+            "x1": 353,
+            "y1": 174,
+            "x2": 4398,
+            "y2": 2418
+        }
+    }
+}

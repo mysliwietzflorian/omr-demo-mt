@@ -1,0 +1,1836 @@
+{
+    "version": "1.0.0",
+    "imagePath": "byrd_02.png",
+    "imageHeight": 5860,
+    "imageWidth": 4521,
+    "notation-graph": {
+        "attributes": {
+            "clef": {
+                "sign": "g",
+                "line": 2,
+                "octave-change": false
+            },
+            "key": {
+                "mode": null,
+                "fifths": 0,
+                "cancel": 0
+            },
+            "time": {
+                "beats": 4,
+                "beat-type": 4,
+                "time-symbol": "common"
+            }
+        },
+        "measures": [
+            {
+                "number": 1,
+                "attributes": {
+                    "clef": {
+                        "sign": "c",
+                        "line": 3
+                    }
+                },
+                "objects": [
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "c",
+                                "octave": 3
+                            },
+                            "stem": "up",
+                            "beam": "begin"
+                        },
+                        "primitive-component": {
+                            "x1": 470,
+                            "y1": 420,
+                            "x2": 598,
+                            "y2": 693
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "d",
+                                "octave": 3
+                            },
+                            "stem": "up",
+                            "beam": "continue"
+                        },
+                        "primitive-component": {
+                            "x1": 719,
+                            "y1": 406,
+                            "x2": 822,
+                            "y2": 675
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "e",
+                                "octave": 3
+                            },
+                            "stem": "up",
+                            "beam": "continue"
+                        },
+                        "primitive-component": {
+                            "x1": 946,
+                            "y1": 403,
+                            "x2": 1039,
+                            "y2": 658
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 3
+                            },
+                            "stem": "up",
+                            "beam": "end"
+                        },
+                        "primitive-component": {
+                            "x1": 1177,
+                            "y1": 389,
+                            "x2": 1263,
+                            "y2": 627
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "g",
+                                "octave": 3
+                            },
+                            "stem": "up",
+                            "beam": "begin"
+                        },
+                        "primitive-component": {
+                            "x1": 1395,
+                            "y1": 338,
+                            "x2": 1519,
+                            "y2": 606
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "a",
+                                "octave": 3
+                            },
+                            "stem": "up",
+                            "beam": "continue"
+                        },
+                        "primitive-component": {
+                            "x1": 1650,
+                            "y1": 331,
+                            "x2": 1722,
+                            "y2": 579
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "b",
+                                "octave": 3
+                            },
+                            "stem": "up",
+                            "beam": "continue"
+                        },
+                        "primitive-component": {
+                            "x1": 1884,
+                            "y1": 317,
+                            "x2": 1960,
+                            "y2": 551
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "c",
+                                "octave": 4
+                            },
+                            "stem": "up",
+                            "beam": "end"
+                        },
+                        "primitive-component": {
+                            "x1": 2098,
+                            "y1": 306,
+                            "x2": 2184,
+                            "y2": 537
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "d",
+                                "octave": 4
+                            },
+                            "stem": "down",
+                            "beam": "begin"
+                        },
+                        "primitive-component": {
+                            "x1": 2319,
+                            "y1": 427,
+                            "x2": 2405,
+                            "y2": 655
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "e",
+                                "octave": 4
+                            },
+                            "stem": "down",
+                            "beam": "continue"
+                        },
+                        "primitive-component": {
+                            "x1": 2546,
+                            "y1": 396,
+                            "x2": 2636,
+                            "y2": 655
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 4
+                            },
+                            "stem": "down",
+                            "beam": "continue"
+                        },
+                        "primitive-component": {
+                            "x1": 2784,
+                            "y1": 368,
+                            "x2": 2870,
+                            "y2": 644
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "g",
+                                "octave": 4
+                            },
+                            "stem": "down",
+                            "beam": "end"
+                        },
+                        "primitive-component": {
+                            "x1": 3005,
+                            "y1": 362,
+                            "x2": 3101,
+                            "y2": 637
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "a",
+                                "octave": 4
+                            },
+                            "stem": "down",
+                            "beam": "begin"
+                        },
+                        "primitive-component": {
+                            "x1": 3246,
+                            "y1": 337,
+                            "x2": 3336,
+                            "y2": 579
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "b",
+                                "octave": 4
+                            },
+                            "stem": "down",
+                            "beam": "continue"
+                        },
+                        "primitive-component": {
+                            "x1": 3460,
+                            "y1": 310,
+                            "x2": 3574,
+                            "y2": 562
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "c",
+                                "octave": 5
+                            },
+                            "stem": "down",
+                            "beam": "continue"
+                        },
+                        "primitive-component": {
+                            "x1": 3695,
+                            "y1": 279,
+                            "x2": 3805,
+                            "y2": 565
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "d",
+                                "octave": 5
+                            },
+                            "stem": "down",
+                            "beam": "end"
+                        },
+                        "primitive-component": {
+                            "x1": 3908,
+                            "y1": 272,
+                            "x2": 4032,
+                            "y2": 555
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 257,
+                    "y1": 400,
+                    "x2": 4186,
+                    "y2": 600
+                }
+            },
+            {
+                "number": 2,
+                "attributes": null,
+                "objects": [
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "c",
+                                "octave": 5
+                            },
+                            "stem": "down",
+                            "beam": "begin"
+                        },
+                        "primitive-component": {
+                            "x1": 477,
+                            "y1": 1089,
+                            "x2": 577,
+                            "y2": 1334
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "b",
+                                "octave": 4
+                            },
+                            "stem": "down",
+                            "beam": "continue"
+                        },
+                        "primitive-component": {
+                            "x1": 705,
+                            "y1": 1117,
+                            "x2": 801,
+                            "y2": 1348
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "a",
+                                "octave": 4
+                            },
+                            "stem": "down",
+                            "beam": "continue"
+                        },
+                        "primitive-component": {
+                            "x1": 929,
+                            "y1": 1141,
+                            "x2": 1019,
+                            "y2": 1358
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "g",
+                                "octave": 4
+                            },
+                            "stem": "down",
+                            "beam": "end"
+                        },
+                        "primitive-component": {
+                            "x1": 1167,
+                            "y1": 1162,
+                            "x2": 1253,
+                            "y2": 1372
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 4
+                            },
+                            "stem": "down",
+                            "beam": "begin"
+                        },
+                        "primitive-component": {
+                            "x1": 1381,
+                            "y1": 1172,
+                            "x2": 1481,
+                            "y2": 1427
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "e",
+                                "octave": 4
+                            },
+                            "stem": "down",
+                            "beam": "continue"
+                        },
+                        "primitive-component": {
+                            "x1": 1626,
+                            "y1": 1206,
+                            "x2": 1712,
+                            "y2": 1437
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "d",
+                                "octave": 4
+                            },
+                            "stem": "down",
+                            "beam": "continue"
+                        },
+                        "primitive-component": {
+                            "x1": 1857,
+                            "y1": 1244,
+                            "x2": 1939,
+                            "y2": 1444
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "c",
+                                "octave": 4
+                            },
+                            "stem": "down",
+                            "beam": "end"
+                        },
+                        "primitive-component": {
+                            "x1": 2088,
+                            "y1": 1265,
+                            "x2": 2163,
+                            "y2": 1468
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "b",
+                                "octave": 3
+                            },
+                            "stem": "up",
+                            "beam": "begin"
+                        },
+                        "primitive-component": {
+                            "x1": 2322,
+                            "y1": 1134,
+                            "x2": 2405,
+                            "y2": 1355
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "a",
+                                "octave": 3
+                            },
+                            "stem": "up",
+                            "beam": "continue"
+                        },
+                        "primitive-component": {
+                            "x1": 2550,
+                            "y1": 1155,
+                            "x2": 2632,
+                            "y2": 1379
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "g",
+                                "octave": 3
+                            },
+                            "stem": "up",
+                            "beam": "continue"
+                        },
+                        "primitive-component": {
+                            "x1": 2770,
+                            "y1": 1151,
+                            "x2": 2863,
+                            "y2": 1413
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 3
+                            },
+                            "stem": "up",
+                            "beam": "end"
+                        },
+                        "primitive-component": {
+                            "x1": 2995,
+                            "y1": 1168,
+                            "x2": 3098,
+                            "y2": 1427
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "e",
+                                "octave": 3
+                            },
+                            "stem": "up",
+                            "beam": "begin"
+                        },
+                        "primitive-component": {
+                            "x1": 3232,
+                            "y1": 1234,
+                            "x2": 3332,
+                            "y2": 1441
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "d",
+                                "octave": 3
+                            },
+                            "stem": "up",
+                            "beam": "continue"
+                        },
+                        "primitive-component": {
+                            "x1": 3463,
+                            "y1": 1241,
+                            "x2": 3553,
+                            "y2": 1482
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "c",
+                                "octave": 3
+                            },
+                            "stem": "up",
+                            "beam": "continue"
+                        },
+                        "primitive-component": {
+                            "x1": 3677,
+                            "y1": 1241,
+                            "x2": 3788,
+                            "y2": 1493
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "c",
+                                "octave": 3
+                            },
+                            "stem": "up",
+                            "beam": "end"
+                        },
+                        "primitive-component": {
+                            "x1": 3915,
+                            "y1": 1268,
+                            "x2": 4008,
+                            "y2": 1500
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 250,
+                    "y1": 1196,
+                    "x2": 4186,
+                    "y2": 1396
+                }
+            },
+            {
+                "number": 3,
+                "attributes": {
+                    "clef": null
+                },
+                "objects": [
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "g",
+                                "octave": 3
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 543,
+                            "y1": 2079,
+                            "x2": 629,
+                            "y2": 2331
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "a",
+                                "octave": 3
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 757,
+                            "y1": 2068,
+                            "x2": 843,
+                            "y2": 2313
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "b",
+                                "octave": 3
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 960,
+                            "y1": 2072,
+                            "x2": 1057,
+                            "y2": 2289
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "d",
+                                "octave": 4
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 1174,
+                            "y1": 2024,
+                            "x2": 1267,
+                            "y2": 2248
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 243,
+                    "y1": 1992,
+                    "x2": 1403,
+                    "y2": 2182
+                }
+            },
+            {
+                "number": 4,
+                "attributes": null,
+                "objects": [
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "e",
+                                "octave": 4
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 1463,
+                            "y1": 2013,
+                            "x2": 1543,
+                            "y2": 2231
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 4
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 1677,
+                            "y1": 1979,
+                            "x2": 1757,
+                            "y2": 2206
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "g",
+                                "octave": 4
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 1891,
+                            "y1": 1968,
+                            "x2": 1974,
+                            "y2": 2196
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "a",
+                                "octave": 4
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 2095,
+                            "y1": 1937,
+                            "x2": 2184,
+                            "y2": 2162
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 1403,
+                    "y1": 1996,
+                    "x2": 2325,
+                    "y2": 2185
+                }
+            },
+            {
+                "number": 5,
+                "attributes": null,
+                "objects": [
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "b",
+                                "octave": 4
+                            },
+                            "stem": "down"
+                        },
+                        "primitive-component": {
+                            "x1": 2370,
+                            "y1": 2062,
+                            "x2": 2477,
+                            "y2": 2272
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "c",
+                                "octave": 5
+                            },
+                            "stem": "down"
+                        },
+                        "primitive-component": {
+                            "x1": 2581,
+                            "y1": 2034,
+                            "x2": 2667,
+                            "y2": 2251
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "d",
+                                "octave": 5
+                            },
+                            "stem": "down"
+                        },
+                        "primitive-component": {
+                            "x1": 2788,
+                            "y1": 2017,
+                            "x2": 2888,
+                            "y2": 2224
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "e",
+                                "octave": 5
+                            },
+                            "stem": "down"
+                        },
+                        "primitive-component": {
+                            "x1": 3008,
+                            "y1": 1989,
+                            "x2": 3098,
+                            "y2": 2203
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 2325,
+                    "y1": 2000,
+                    "x2": 3239,
+                    "y2": 2189
+                }
+            },
+            {
+                "number": 6,
+                "attributes": null,
+                "objects": [
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 5
+                            },
+                            "stem": "down"
+                        },
+                        "primitive-component": {
+                            "x1": 3281,
+                            "y1": 1962,
+                            "x2": 3377,
+                            "y2": 2175
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "g",
+                                "octave": 5
+                            },
+                            "stem": "down"
+                        },
+                        "primitive-component": {
+                            "x1": 3501,
+                            "y1": 1941,
+                            "x2": 3584,
+                            "y2": 2165
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "a",
+                                "octave": 5
+                            },
+                            "stem": "down"
+                        },
+                        "primitive-component": {
+                            "x1": 3698,
+                            "y1": 1924,
+                            "x2": 3805,
+                            "y2": 2134
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "b",
+                                "octave": 5
+                            },
+                            "stem": "down"
+                        },
+                        "primitive-component": {
+                            "x1": 3912,
+                            "y1": 1900,
+                            "x2": 4022,
+                            "y2": 2103
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 3243,
+                    "y1": 2000,
+                    "x2": 4178,
+                    "y2": 2189
+                }
+            },
+            {
+                "number": 7,
+                "attributes": {
+                    "clef": {
+                        "sign": "percussion"
+                    }
+                },
+                "objects": [
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": null,
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 488,
+                            "y1": 2711,
+                            "x2": 576,
+                            "y2": 2926
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": null,
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 1400,
+                            "y1": 2711,
+                            "x2": 1503,
+                            "y2": 2926
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": null,
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 2323,
+                            "y1": 2711,
+                            "x2": 2419,
+                            "y2": 2946
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": null,
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 3230,
+                            "y1": 2715,
+                            "x2": 3346,
+                            "y2": 2938
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 250,
+                    "y1": 2810,
+                    "x2": 4186,
+                    "y2": 2985
+                }
+            },
+            {
+                "number": 8,
+                "attributes": {
+                    "clef": null
+                },
+                "objects": [
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "d",
+                                "octave": 4
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 496,
+                            "y1": 3626,
+                            "x2": 569,
+                            "y2": 3838
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "d",
+                                "octave": 4
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 1003,
+                            "y1": 3630,
+                            "x2": 1092,
+                            "y2": 3850
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "d",
+                                "octave": 4
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 1519,
+                            "y1": 3626,
+                            "x2": 1603,
+                            "y2": 3846
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "d",
+                                "octave": 4
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 2042,
+                            "y1": 3638,
+                            "x2": 2119,
+                            "y2": 3846
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 239,
+                    "y1": 3596,
+                    "x2": 2564,
+                    "y2": 3792
+                }
+            },
+            {
+                "number": 9,
+                "attributes": null,
+                "objects": [
+                    {
+                        "duration": "half",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "d",
+                                "octave": 4
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 2634,
+                            "y1": 3642,
+                            "x2": 2707,
+                            "y2": 3853
+                        }
+                    },
+                    {
+                        "duration": "half",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "d",
+                                "octave": 4
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 3396,
+                            "y1": 3638,
+                            "x2": 3480,
+                            "y2": 3857
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 2564,
+                    "y1": 3603,
+                    "x2": 4182,
+                    "y2": 3800
+                }
+            },
+            {
+                "number": 10,
+                "attributes": {
+                    "clef": {
+                        "sign": "f",
+                        "line": 4
+                    }
+                },
+                "objects": [
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 500,
+                            "y1": 4434,
+                            "x2": 569,
+                            "y2": 4642
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 715,
+                            "y1": 4430,
+                            "x2": 780,
+                            "y2": 4638
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 930,
+                            "y1": 4438,
+                            "x2": 1007,
+                            "y2": 4634
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 1142,
+                            "y1": 4426,
+                            "x2": 1215,
+                            "y2": 4646
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 243,
+                    "y1": 4400,
+                    "x2": 1368,
+                    "y2": 4585
+                }
+            },
+            {
+                "number": 11,
+                "attributes": null,
+                "objects": [
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 1430,
+                            "y1": 4446,
+                            "x2": 1503,
+                            "y2": 4646
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 1646,
+                            "y1": 4430,
+                            "x2": 1726,
+                            "y2": 4638
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 1869,
+                            "y1": 4442,
+                            "x2": 1938,
+                            "y2": 4642
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 2076,
+                            "y1": 4434,
+                            "x2": 2153,
+                            "y2": 4657
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 1364,
+                    "y1": 4400,
+                    "x2": 2307,
+                    "y2": 4596
+                }
+            },
+            {
+                "number": 12,
+                "attributes": null,
+                "objects": [
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 2365,
+                            "y1": 4438,
+                            "x2": 2450,
+                            "y2": 4650
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 2588,
+                            "y1": 4438,
+                            "x2": 2657,
+                            "y2": 4650
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 2807,
+                            "y1": 4434,
+                            "x2": 2880,
+                            "y2": 4661
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 3019,
+                            "y1": 4446,
+                            "x2": 3096,
+                            "y2": 4650
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 2300,
+                    "y1": 4400,
+                    "x2": 3243,
+                    "y2": 4592
+                }
+            },
+            {
+                "number": 13,
+                "attributes": null,
+                "objects": [
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 3296,
+                            "y1": 4446,
+                            "x2": 3388,
+                            "y2": 4650
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 3515,
+                            "y1": 4434,
+                            "x2": 3600,
+                            "y2": 4657
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 3730,
+                            "y1": 4442,
+                            "x2": 3815,
+                            "y2": 4657
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 3949,
+                            "y1": 4446,
+                            "x2": 4034,
+                            "y2": 4657
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 3236,
+                    "y1": 4403,
+                    "x2": 4182,
+                    "y2": 4600
+                }
+            },
+            {
+                "number": 14,
+                "attributes": null,
+                "objects": [
+                    {
+                        "duration": "whole",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            }
+                        },
+                        "primitive-component": {
+                            "x1": 467,
+                            "x2": 574,
+                            "y1": 5363,
+                            "y2": 5443
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 246,
+                    "y1": 5200,
+                    "x2": 896,
+                    "y2": 5389
+                }
+            },
+            {
+                "number": 15,
+                "attributes": null,
+                "objects": [
+                    {
+                        "duration": "half",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 967,
+                            "x2": 1027,
+                            "y1": 5233,
+                            "y2": 5447
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 1227,
+                            "x2": 1297,
+                            "y1": 5233,
+                            "y2": 5447
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 1414,
+                            "x2": 1481,
+                            "y1": 5233,
+                            "y2": 5447
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 896,
+                    "y1": 5203,
+                    "x2": 1603,
+                    "y2": 5392
+                }
+            },
+            {
+                "number": 16,
+                "attributes": null,
+                "objects": [
+                    {
+                        "duration": "half",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 1671,
+                            "x2": 1741,
+                            "y1": 5230,
+                            "y2": 5467
+                        }
+                    },
+                    {
+                        "duration": "eighth",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 1937,
+                            "x2": 2061,
+                            "y1": 5237,
+                            "y2": 5443
+                        }
+                    },
+                    {
+                        "duration": "eighth",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 2077,
+                            "x2": 2197,
+                            "y1": 5247,
+                            "y2": 5457
+                        }
+                    },
+                    {
+                        "duration": "eighth",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 2204,
+                            "x2": 2331,
+                            "y1": 5250,
+                            "y2": 5457
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 2334,
+                            "x2": 2464,
+                            "y1": 5203,
+                            "y2": 5453
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 2467,
+                            "x2": 2601,
+                            "y1": 5200,
+                            "y2": 5463
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 1603,
+                    "y1": 5207,
+                    "x2": 2639,
+                    "y2": 5392
+                }
+            },
+            {
+                "number": 17,
+                "attributes": null,
+                "objects": [
+                    {
+                        "duration": "half",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up",
+                            "is-dotted": true
+                        },
+                        "primitive-component": {
+                            "x1": 2691,
+                            "x2": 2814,
+                            "y1": 5243,
+                            "y2": 5450
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 3044,
+                            "x2": 3174,
+                            "y1": 5210,
+                            "y2": 5470
+                        }
+                    },
+                    {
+                        "duration": "16th",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 3187,
+                            "x2": 3307,
+                            "y1": 5210,
+                            "y2": 5457
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 2639,
+                    "y1": 5203,
+                    "x2": 3350,
+                    "y2": 5403
+                }
+            },
+            {
+                "number": 18,
+                "attributes": null,
+                "objects": [
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up",
+                            "is-dotted": true
+                        },
+                        "primitive-component": {
+                            "x1": 3401,
+                            "x2": 3517,
+                            "y1": 5250,
+                            "y2": 5457
+                        }
+                    },
+                    {
+                        "duration": "eighth",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 3644,
+                            "x2": 3771,
+                            "y1": 5247,
+                            "y2": 5460
+                        }
+                    },
+                    {
+                        "duration": "quarter",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up",
+                            "is-dotted": true
+                        },
+                        "primitive-component": {
+                            "x1": 3767,
+                            "x2": 3891,
+                            "y1": 5247,
+                            "y2": 5453
+                        }
+                    },
+                    {
+                        "duration": "eighth",
+                        "type-component": {
+                            "type": "note",
+                            "pitch": {
+                                "step": "f",
+                                "octave": 2
+                            },
+                            "stem": "up"
+                        },
+                        "primitive-component": {
+                            "x1": 3997,
+                            "x2": 4144,
+                            "y1": 5250,
+                            "y2": 5460
+                        }
+                    }
+                ],
+                "primitive-component": {
+                    "x1": 3350,
+                    "y1": 5214,
+                    "x2": 4189,
+                    "y2": 5407
+                }
+            }
+        ],
+        "primitive-component": {
+            "x1": 245,
+            "y1": 293,
+            "x2": 4188,
+            "y2": 5449
+        }
+    }
+}

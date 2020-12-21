@@ -1,0 +1,172 @@
+{
+    "meta": {
+        "stave_height": 37
+    },
+    "attributes": {
+        "clef": [
+            {
+                "name": "treble",
+                "path": "resources/templates/attributes/clef/treble_g_2.png",
+                "threshold": 0.08,
+                "sign": "G",
+                "line": 2,
+                "has_octave_change": false
+            },
+            {
+                "name": "bass",
+                "path": "resources/templates/attributes/clef/bass_f_4.png",
+                "threshold": 0.05,
+                "sign": "F",
+                "line": 4,
+                "has_octave_change": false
+            },
+            {
+                "name": "percussion",
+                "path": "resources/templates/attributes/clef/percussion.png",
+                "threshold": 0.05,
+                "sign": "percussion",
+                "line": 0,
+                "has_octave_change": false
+            }
+        ],
+        "key": [
+            {
+                "name": "fifths_+1",
+                "path": "resources/templates/attributes/key/fifths_+1.png",
+                "threshold": 0.01,
+                "fifths": 1
+            },
+            {
+                "name": "fifths_+2.png",
+                "path": "resources/templates/attributes/key/fifths_+2.png",
+                "threshold": 0.01,
+                "fifths": 2
+            },
+            {
+                "name": "fifths_+3.png",
+                "path": "resources/templates/attributes/key/fifths_+3.png",
+                "threshold": 0.01,
+                "fifths": 3
+            },
+            {
+                "name": "fifths_+4.png",
+                "path": "resources/templates/attributes/key/fifths_+4.png",
+                "threshold": 0.01,
+                "fifths": 4
+            },
+            {
+                "name": "fifths_+5",
+                "path": "resources/templates/attributes/key/fifths_+5.png",
+                "threshold": 0.01,
+                "fifths": 5
+            },
+            {
+                "name": "fifths_+6.png",
+                "path": "resources/templates/attributes/key/fifths_+6.png",
+                "threshold": 0.01,
+                "fifths": 6
+            },
+            {
+                "name": "fifths_+7.png",
+                "path": "resources/templates/attributes/key/fifths_+7.png",
+                "threshold": 0.01,
+                "fifths": 7
+            },
+            {
+                "name": "fifths_-1",
+                "path": "resources/templates/attributes/key/fifths_-1.png",
+                "threshold": 0.01,
+                "fifths": -1
+            },
+            {
+                "name": "fifths_-2.png",
+                "path": "resources/templates/attributes/key/fifths_-2.png",
+                "threshold": 0.01,
+                "fifths": -2
+            },
+            {
+                "name": "fifths_-3.png",
+                "path": "resources/templates/attributes/key/fifths_-3.png",
+                "threshold": 0.01,
+                "fifths": -3
+            },
+            {
+                "name": "fifths_-4.png",
+                "path": "resources/templates/attributes/key/fifths_-4.png",
+                "threshold": 0.01,
+                "fifths": -4
+            },
+            {
+                "name": "fifths_-5",
+                "path": "resources/templates/attributes/key/fifths_-5.png",
+                "threshold": 0.01,
+                "fifths": -5
+            },
+            {
+                "name": "fifths_-6.png",
+                "path": "resources/templates/attributes/key/fifths_-6.png",
+                "threshold": 0.01,
+                "fifths": -6
+            },
+            {
+                "name": "fifths_-7.png",
+                "path": "resources/templates/attributes/key/fifths_-7.png",
+                "threshold": 0.01,
+                "fifths": -7
+            }
+        ],
+        "time": [
+            {
+                "name": "2/4",
+                "path": "resources/templates/attributes/time/2-4.png",
+                "threshold": 0.03,
+                "beats": 2,
+                "beat_type": 4
+            },
+            {
+                "name": "3/4",
+                "path": "resources/templates/attributes/time/3-4.png",
+                "threshold": 0.03,
+                "beats": 3,
+                "beat_type": 4
+            },
+            {
+                "name": "4/4",
+                "path": "resources/templates/attributes/time/4-4.png",
+                "threshold": 0.03,
+                "beats": 4,
+                "beat_type": 4
+            },
+            {
+                "name": "6/8",
+                "path": "resources/templates/attributes/time/6-8.png",
+                "threshold": 0.03,
+                "beats": 6,
+                "beat_type": 8
+            },
+            {
+                "name": "common",
+                "path": "resources/templates/attributes/time/common.png",
+                "threshold": 0.03,
+                "beats": 4,
+                "beat_type": 4
+            },
+            {
+                "name": "cut",
+                "path": "resources/templates/attributes/time/cut.png",
+                "threshold": 0.03,
+                "beats": 2,
+                "beat_type": 2
+            }
+        ]
+    },
+    "objects": {
+        "note": [
+            {
+                "name": "quarter",
+                "path": "resources/templates/objects/note/quarter.png",
+                "threshold": 0.036
+            }
+        ]
+    }
+}

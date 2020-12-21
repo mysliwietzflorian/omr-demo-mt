@@ -1,0 +1,10 @@
+version: '3'
+services:
+    pdf2img:
+        build: './pdf2img/'
+        ports:
+        volumes:
+            - ../projects/omr-demo/resources/samples:/var/workdir/
+            - ../projects/omr-demo/resources/samples/pdf2img:/var/workdir/output/
+        ports: []
+        command: tail -F /dev/null
